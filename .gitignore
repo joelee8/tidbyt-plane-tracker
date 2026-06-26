@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.webp
+.DS_Store
+Thumbs.db
+
+# Local secrets and machine-specific config
+config.json
+
+# Local virtual environments
+.venv/
+venv/
+
+# IDE/editor noise
+.vscode/
+.idea/

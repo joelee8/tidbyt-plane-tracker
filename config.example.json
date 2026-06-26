@@ -1,0 +1,14 @@
+{
+  "api_key": "PASTE_AIRLABS_KEY_HERE",
+  "home_lat": 37.6547,
+  "home_lon": -122.4077,
+  "bbox_radius_km": 8.0,
+  "display_radius_km": 5.0,
+  "max_altitude_ft": 12000,
+  "max_age_seconds": 90,
+  "poll_interval_seconds": 15,
+  "listen_host": "127.0.0.1",
+  "listen_port": 8787,
+  "label": "South San Francisco",
+  "commercial_only": true
+}
